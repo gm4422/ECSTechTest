@@ -9,7 +9,7 @@ using qaTechTests.Steps;
 namespace qaTechTests.UnitTests
 {
     [TestClass]
-    public class UnitTest1
+    public class ArrayUnitTests
     {
         [TestInitialize]
         public void TestSetup()
